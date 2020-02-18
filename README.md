@@ -1,6 +1,8 @@
 # opencv2eel_sample
-opencv2eel_sample‚ÍEelã‚ÅOpenCV‚Ì‰æ‘œ‚ð•\Ž¦‚·‚éƒTƒ“ƒvƒ‹‚Å‚·B
-¦Eel‚ÍElectronƒ‰ƒCƒN‚ÈHTML/JS/CSS‚ÌGUIƒAƒvƒŠ‚ðì¬‚Å‚«‚éƒVƒ“ƒvƒ‹‚Èƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·B
+opencv2eel_sampleã¯Eelä¸Šã§OpenCVã®ç”»åƒã‚’è¡¨ç¤ºã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
+â€»Eelã¯Electronãƒ©ã‚¤ã‚¯ãªHTML/JS/CSSã®GUIã‚¢ãƒ—ãƒªã‚’ä½œæˆã§ãã‚‹ã‚·ãƒ³ãƒ—ãƒ«ãªãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚
+
+![q071g-kf8ly](https://user-images.githubusercontent.com/37477845/74750740-8d347080-52af-11ea-9e70-08efdbd88df2.gif)
 
 # Requirement
  
@@ -9,15 +11,15 @@ opencv2eel_sample‚ÍEelã‚ÅOpenCV‚Ì‰æ‘œ‚ð•\Ž¦‚·‚éƒTƒ“ƒvƒ‹‚Å‚·B
  
 # Usage
  
-ƒTƒ“ƒvƒ‹‚ÌŽÀs•û–@‚ÍˆÈ‰º‚Å‚·B
-WebƒJƒƒ‰‚ªPC‚ÉÚ‘±‚³‚ê‚Ä‚¢‚é•K—v‚ª‚ ‚è‚Ü‚·B
+ã‚µãƒ³ãƒ—ãƒ«ã®å®Ÿè¡Œæ–¹æ³•ã¯ä»¥ä¸‹ã§ã™ã€‚
+Webã‚«ãƒ¡ãƒ©ãŒPCã«æŽ¥ç¶šã•ã‚Œã¦ã„ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
  
 ```bash
 python opencv2eel.py
 ```
 
 # Author
-‚‹´‚©‚¸‚Ð‚Æ
+é«˜æ©‹ã‹ãšã²ã¨
  
 # License 
 cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
