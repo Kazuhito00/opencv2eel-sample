@@ -20,6 +20,9 @@ WebカメラがPCに接続されている必要があります。
 python opencv2eel.py
 ```
 
+# Note
+[Qiita：【OpenCV】OpenCVの画像をEelに転送して表示する](https://qiita.com/Kazuhito/items/9b00772c9d7e5c73ebce)
+
 # Author
 高橋かずひと
  
