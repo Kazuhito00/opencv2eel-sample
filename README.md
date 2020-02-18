@@ -12,6 +12,7 @@ opencv2eel_sampleはEel上でOpenCVの画像を表示するサンプルです。
 # Usage
  
 サンプルの実行方法は以下です。
+
 WebカメラがPCに接続されている必要があります。
  
 ```bash
