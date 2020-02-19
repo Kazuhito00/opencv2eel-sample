@@ -27,6 +27,6 @@ python opencv2eel.py
 高橋かずひと
  
 # License 
-cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+opencv2eel_sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 
