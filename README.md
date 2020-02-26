@@ -1,5 +1,5 @@
-# opencv2eel_sample
-opencv2eel_sampleはEel上でOpenCVの画像を表示するサンプルです。
+# opencv2eel-sample
+opencv2eel-sampleはEel上でOpenCVの画像を表示するサンプルです。
 
 ※EelはElectronライクなHTML/JS/CSSのGUIアプリを作成できるシンプルなライブラリです。
 
@@ -27,6 +27,6 @@ python opencv2eel.py
 高橋かずひと
  
 # License 
-opencv2eel_sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+opencv2eel-sample is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 
